@@ -1,0 +1,14 @@
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\bin\Debug\net7.0\NonProfitLibrary.deps.json
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\bin\Debug\net7.0\NonProfitLibrary.runtimeconfig.json
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\bin\Debug\net7.0\NonProfitLibrary.dll
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\bin\Debug\net7.0\NonProfitLibrary.pdb
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\obj\Debug\net7.0\NonProfitLibrary.csproj.AssemblyReference.cache
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\obj\Debug\net7.0\NonProfitLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\obj\Debug\net7.0\NonProfitLibrary.AssemblyInfoInputs.cache
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\obj\Debug\net7.0\NonProfitLibrary.AssemblyInfo.cs
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\obj\Debug\net7.0\NonProfitLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\obj\Debug\net7.0\NonProfitLibrary.dll
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\obj\Debug\net7.0\refint\NonProfitLibrary.dll
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\obj\Debug\net7.0\NonProfitLibrary.pdb
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\obj\Debug\net7.0\NonProfitLibrary.genruntimeconfig.cache
+C:\Users\Yena Hwang\vscode_playground\COMP4602\NonProfitApp\NonProfitLibrary\obj\Debug\net7.0\ref\NonProfitLibrary.dll
