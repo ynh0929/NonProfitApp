@@ -54,4 +54,4 @@ jobs:
           app-name: 'nonprofitappyh'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C70DB3FBEF4748E2A1F5FF0A94729E94 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5F7421CF6E724D74B1E0C1549B80583E }}
